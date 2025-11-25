@@ -6,9 +6,9 @@ Working on feature A
 
 ### Steps 
 
-![images](./Screenshot_1.png)
-![images](./Screenshot_2.png)
-![images](./Screenshot_3.png)
-![images](./Screenshot_4.png)
-![images](./Screenshot_5.png)
-![images](./Screenshot_6.png)
+![Description](images/Screenshot_1.png)
+![Description](images/Screenshot_2.png)
+![Description](images/Screenshot_3.png)
+![Description](images/Screenshot_4.png)
+![Description](images/Screenshot_5.png)
+![Description](images/Screenshot_6.png)
