@@ -6,9 +6,20 @@ Working on feature A
 
 ### Steps 
 
+#### Screenshot of step
 ![Description](images/Screenshot_1.png)
+
+#### Screenshot of step
 ![Description](images/Screenshot_2.png)
+
+#### Screenshot of step
 ![Description](images/Screenshot_3.png)
+
+#### Screenshot of step
 ![Description](images/Screenshot_4.png)
+
+#### Screenshot of step
 ![Description](images/Screenshot_5.png)
+
+#### Screenshot of step
 ![Description](images/Screenshot_6.png)
